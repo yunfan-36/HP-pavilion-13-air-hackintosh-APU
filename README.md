@@ -8,11 +8,11 @@
 1.硬件解码
 
 2.休眠
-[![](https://img.shields.io/badge/macOS-Ventura_13.4.1-orange.svg)](https://www.apple.com/macos/ventura/)
+[![](https://img.shields.io/badge/macOS-Ventura_13.5.2-orange.svg)](https://www.apple.com/macos/ventura/)
 [![](https://img.shields.io/badge/OpenCore-0.9.3-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![](https://img.shields.io/badge/translation-english-green.svg)](./docs/README_EN.md)
 
-<img src="./docs/about-this-mac.jpg" style="height: 50vh" />
+
 
 ## ⚙️ 硬件规格
 ##### 电脑产品系列：HP Pavilion Aero Laptop 
