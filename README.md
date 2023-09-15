@@ -1,4 +1,4 @@
-# hp-pavilion-13-air-hackintosh
+# HP-pavilion-13-air-hackintosh
 
 ## ⚙️ 硬件规格
 - 电脑产品系列：HP Pavilion Aero Laptop 
