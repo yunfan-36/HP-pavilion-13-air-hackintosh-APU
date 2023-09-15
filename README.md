@@ -32,6 +32,5 @@
 
 ### 硬件加速
 
-- 截止目前所使用的 [NootedRed](https://github.com/NootInc/NootedRed/actions/runs/5425999871) 版本（CI\#957）还未支持硬件加速
-- Chrome、VS Code 都需要关闭硬件加速的设置（[参考](https://nootinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)）
-- 视频播放可以使用 Safari
+- 截止目前所使用的 [NootedRed]还未支持硬件加速
+- Chrome、VSCode、vlc、iina 都需要关闭硬件加速的设置（[参考](https://nootinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)）
